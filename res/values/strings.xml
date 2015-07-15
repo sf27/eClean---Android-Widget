@@ -1,0 +1,6 @@
+<resources>
+
+    <string name="app_name">eClean</string>
+	<string name="before_clean">Limpiando memoria</string>
+	<string name="after_clean">Memoria limpiada correctamente</string>
+</resources>
